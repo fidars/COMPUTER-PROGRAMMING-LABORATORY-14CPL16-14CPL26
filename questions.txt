@@ -75,15 +75,15 @@
 	“studentname.txt” and “usn.txt” into output file in the sequence shown
 	below. Display the contents of output file “output.txt” on to the screen
 			_________________________________________
-			|Student Name		    | USN       				|
+			|Student Name	      | USN       	|
 			|---------------------------------------|
-			|Name1				      | USN1			      	|
+			|Name1		      | USN1	    	|
 			|---------------------------------------|
-			|Name2				      | USN3				      |
+			|Name2		      | USN3		|
 			|---------------------------------------|
-			| .....				      | .....		      		|
+			| .....		      | .....		|
 			|---------------------------------------|
-			| .....				      | .....	      			|
+			| .....		      | .....		|
 			|_______________________________________|
 			
 13. Write a C program to maintain a record of n student details using an
