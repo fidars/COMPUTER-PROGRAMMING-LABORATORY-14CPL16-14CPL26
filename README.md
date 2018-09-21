@@ -3,7 +3,7 @@ COMPUTER-PROGRAMMING-LABORATORY-14CPL16-14CPL26
 
 All the Programs in this repository are as per New VTU Syllabus with subject codes 14CPL16/14CPL26
 
-Author: Shivagangadhar Kolli
+Author: Shiva K
 
 List of Programs and Description : http://bit.ly/1pFE0nL
 
